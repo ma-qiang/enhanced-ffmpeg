@@ -8,6 +8,7 @@ A simple container for streaming that can mux as many codec as possible, especia
 Add ZeroMQ I/O protocol to ffmpeg. ZeroMQ is an easy of use, auto-(re)connect tcp library. Current support following mode of ZMQ:
 * Pub-Sub
 * Pair
+
 This can be used to build a simple CDN or video contribution relay.
 
 ## Multiple Program Transport Stream (MPTS)
@@ -15,7 +16,7 @@ Support Multiple Program Transport Stream (MPTS) in TS format.
 
 ## Simple Playlist Input Format
 
-## Logo Filter
+## Simple Logo Filter
 
 ## Parallel Encoding
 
