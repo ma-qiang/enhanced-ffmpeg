@@ -18,8 +18,6 @@ Support Multiple Program Transport Stream (MPTS) in TS format.
 
 ## Simple Playlist Input Format
 
-## Simple Logo Filter
-
 ## Parallel Encoding
 
 ## AWS S3 I/O Protocol
@@ -33,7 +31,7 @@ Support Multiple Program Transport Stream (MPTS) in TS format.
 ## Some Video Filters
 * Face Detection
 * Bilateral Filter
-
+* Simple Logo Filter
 
 ## How to compile
 * Download ffmepg-3.3.1 from [ffmpeg official website](http://ffmpeg.org/releases/ffmpeg-3.3.1.tar.bz2)
