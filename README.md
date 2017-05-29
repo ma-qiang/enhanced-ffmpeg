@@ -21,6 +21,12 @@ Support Multiple Program Transport Stream (MPTS) in TS format.
 
 ## AWS S3 I/O Protocol
 
+## Thumbnail at Keyframe for libx264/5
+
+## AES-128 for HLS Output
+
+## Add H265 codec for flv
+
 ## How to compile
 * Download ffmepg-3.3.1 from [ffmpeg official website](http://ffmpeg.org/releases/ffmpeg-3.3.1.tar.bz2)
 * Replace source accordingly or apply patch.
