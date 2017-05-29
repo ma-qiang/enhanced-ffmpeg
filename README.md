@@ -1,6 +1,8 @@
 # enhanced-ffmpeg
 Add some handy function to ffmpeg
 
+*Will Add the following functions soon...
+
 ## SingleFrame
 A simple container for streaming that can mux as many codec as possible, especially rawvideo and pcm, so that it can be easily used in pipe, network streaming and etc. 
 
@@ -27,6 +29,11 @@ Support Multiple Program Transport Stream (MPTS) in TS format.
 ## AES-128 for HLS Output
 
 ## Add H265 codec for flv
+
+## Some Video Filters
+* Face Detection
+* Bilateral Filter
+
 
 ## How to compile
 * Download ffmepg-3.3.1 from [ffmpeg official website](http://ffmpeg.org/releases/ffmpeg-3.3.1.tar.bz2)
